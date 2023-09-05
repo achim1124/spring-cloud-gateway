@@ -31,4 +31,4 @@ management:
           - "gateway"
   endpoint:
     gateway:
-      enabled: true  # default: true            - 
+      enabled: true  # default: true
